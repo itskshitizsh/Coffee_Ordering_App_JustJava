@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edit_margin">289dp</dimen>
+    <dimen name="std_dp">16dp</dimen>
+    <dimen name="std_sp">16sp</dimen>
+    <dimen name="std2_dp">24dp</dimen>
+    <dimen name="std4_dp">48dp</dimen>
+    <dimen name="std2_sp">24sp</dimen>
+    <dimen name="std4_sp">48sp</dimen>
+    <dimen name="std3_sp">36sp</dimen>
+</resources>
